@@ -1,4 +1,4 @@
-# Day 03 – Group-Based Access Control
+# Day 02 – Group-Based Access Control
 
 ## Task
 The system admin team at xFusionCorp Industries has streamlined access management by implementing group-based access control.  
