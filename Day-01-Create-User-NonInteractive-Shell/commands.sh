@@ -1,10 +1,7 @@
 
 ---
 
-## 3️⃣ `Day-01-Create-User-NonInteractive-Shell/commands.sh`
-
-This is just the **script with commands**, so someone can copy-paste and run it.
-
+### ✅ `Day-01-Create-User-NonInteractive-Shell/commands.sh`
 ```bash
 #!/bin/bash
 # Day 01 – Create a User with Non-Interactive Shell
@@ -14,4 +11,3 @@ sudo useradd -s /sbin/nologin kirsty
 
 # Step 2: Verify the user details
 grep -i kirsty /etc/passwd
-
