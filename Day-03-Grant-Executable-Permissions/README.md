@@ -12,12 +12,13 @@ Your task is to grant executable permissions to the /tmp/xfusioncorp.sh script o
 
 2. Grant executable permissions to the script:
    
+```bash
    sudo chmod 755 /tmp/xfusioncorp.sh
-
-3. Verify the permissions:
-
+```
+4. Verify the permissions:
+```bash
    ls -l /tmp/xfusioncorp.sh
-
+```
 Example output:
 
 -rwxr-xr-x 1 root root 123 Jan 5 12:34 /tmp/xfusioncorp.sh
