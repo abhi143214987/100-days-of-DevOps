@@ -6,8 +6,9 @@ Your task is to grant executable permissions to the /tmp/xfusioncorp.sh script o
 ## Steps Followed
 
 1. SSH into App Server 1:
-
+```bash
    ssh tony@<app-server1-ip>
+```
 
 2. Grant executable permissions to the script:
    
